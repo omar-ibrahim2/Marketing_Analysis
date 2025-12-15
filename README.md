@@ -6,7 +6,7 @@ questions and extract meaningful insights that support decision-making.
 The analysis helps stakeholders understand sales performance, trends, and key revenue drivers.
 
 ## Business Questions
--Who are the highest spending customers?
+-Who are the highest spending customers?        
 -Where does our most revenue come from?
 -What are the factors affecting the number of monthly site visits?
 -What is the relationship between income and discounts?
