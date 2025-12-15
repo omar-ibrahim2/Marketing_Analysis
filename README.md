@@ -7,11 +7,11 @@ The analysis helps stakeholders understand sales performance, trends, and key re
 
 ## Business Questions
 -Who are the highest spending customers?        
--Where does our most revenue come from?
--What are the factors affecting the number of monthly site visits?
--What is the relationship between income and discounts?
--How do marketing campaigns affect the response rate?
--What is the impact of having children and teenagers at home on spending?
+-Where does our most revenue come from?       
+-What are the factors affecting the number of monthly site visits?       
+-What is the relationship between income and discounts?        
+-How do marketing campaigns affect the response rate?         
+-What is the impact of having children and teenagers at home on spending?          
 
 ## Tools & Technologies
 - SQL
