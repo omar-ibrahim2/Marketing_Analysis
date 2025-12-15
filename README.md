@@ -3,7 +3,7 @@
 ## Project Overview
 This project focuses on analyzing business data using SQL to answer key business
 questions and extract meaningful insights that support decision-making.
-The analysis helps stakeholders understand sales performance, trends, and key revenue drivers.
+The analysis helps stakeholders understand Marketing performance and key Insights.
 
 ## Business Questions
 -Who are the highest spending customers?        
